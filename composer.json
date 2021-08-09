@@ -14,8 +14,8 @@
 	],
 	"require": {
 		"php": ">=7.4.0",
-		"silverstripe/framework": "~4.7.3",
-		"silverstripe/cms": "~4.7.3"
+		"silverstripe/framework": "~4.7",
+		"silverstripe/cms": "~4.7"
 	},
 	"require-dev": {
 		"silverstripe/postgresql": "*",
